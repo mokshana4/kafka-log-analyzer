@@ -1,0 +1,6 @@
+kafka-python
+elasticsearch==8.13.0
+scikit-learn
+pandas
+joblib
+requests
